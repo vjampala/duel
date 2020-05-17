@@ -1,1 +1,1 @@
-# duel
+# duel README :)
