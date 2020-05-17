@@ -1,1 +1,1 @@
-# duel README
+# duel README file
